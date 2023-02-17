@@ -1,1 +1,1 @@
-##Responsive To-Do Application
+-Responsive To-Do Application
